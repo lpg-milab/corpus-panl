@@ -1,2 +1,2 @@
-# Mongolian Raw Corpus
+# Mongolian Raw Text Corpus
 
